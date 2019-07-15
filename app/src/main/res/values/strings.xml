@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Commodity management system</string>
+    <string name="title_activity_item_manager">ItemManager</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
